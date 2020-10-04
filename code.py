@@ -1,6 +1,6 @@
 from discord.ext import commands
 client = commands.Bot(command_prefix="!")
-token = "NzYyMzQ5NDU5MTExMDE4NTQ4.X3n3Qg.SuGY85g0KtgTq-qJos8XFIGnH6Q"
+token = "private"
 
 
 @client.event
